@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yhslNWbKO1bR934TZDA/7783RMIaNpxb9VWxoau9PgCsK+Bki1SPA6lwUQgNdFO8tdfGN0g48bHRu+j9PAgB0w==",
+  "success": true,
+  "projectFilePath": "C:\\FDSTraining\\FSD_Projects\\E-Healthcare-BackendProject\\E-Healthcare-BackendProject\\E-Healthcare-ASP\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ramakrishna_mastamar\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ramakrishna_mastamar\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
